@@ -1,0 +1,16 @@
+.profile-card {
+  border: 3px solid #000205;
+  background-color: #e9f2ff;
+  border-radius: 5px;
+  width: 400px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile-img {
+  border: 1px solid #01070e;
+}
+
+.external-img {
+  border:1px solid #000408;
+}
